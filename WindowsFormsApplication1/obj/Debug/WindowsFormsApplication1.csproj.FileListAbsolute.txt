@@ -1,0 +1,1 @@
+E:\VSProgram\GitTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
